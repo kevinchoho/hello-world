@@ -14,3 +14,5 @@ This is an example of a GitHub repository.
 This ia my first time to code in Gitpod or Ona
 
 Every journey begins with a single step, and that step is often the hardest
+
+I still feel confused sometimes but it is ok 
